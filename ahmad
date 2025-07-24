@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Selamat Datang</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #1e2a38;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Selamat datang di situs Rusdi Ahmad</h1>
+  <p>Ahmad adalah orang dengan sumber daya manusia (SDM) paling tinggi di kantor Semar.</p>
+  <p>Web ini dibuat untuk mengenal lebih dekat siapa Ahmad, bagaimana pemikirannya, dan kontribusinya di dunia kerja.</p>
+  <p>Tidak ada gambar atau elemen lain di sini, hanya tulisan yang menceritakan sosok luar biasa ini.</p>
+  <p>Terima kasih telah mengunjungi halaman ini. Semoga Anda mendapatkan inspirasi dari cerita Ahmad.</p>
+</body>
+</html>
